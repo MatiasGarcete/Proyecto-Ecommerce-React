@@ -3,7 +3,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 // import { AppRouter } from './router';
 import AppRoutes from './router.jsx'; 
 
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';  
 import './App.css';
 
 import ModelosDeZapatillas from './component/Api/zapasApi.jsx'; // Importa la API
